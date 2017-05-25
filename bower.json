@@ -1,8 +1,9 @@
 {
-  "name": "pretty-checkbox",
+  "name": "pretty-checkbox-sass",
   "description": "Scalable css3 pretty checkbox and radio buttons",
+  "version": "2.2.1",
   "license": "MIT",
-  "main": "src/pretty.css",
+  "main": ["src/pretty.scss"],
   "homepage": "https://lokesh-coder/github.io/pretty-checkbox",
   "authors": [
     "Lokesh <mexican.dirtyfellow@gmail.com>"
